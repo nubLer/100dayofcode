@@ -1,0 +1,20 @@
+Watched video on Github processes. 
+  Learned about markup process and how to use SSH and create/clone repo's into VSC through terminal.
+ [Link]https://youtu.be/RGOj5yH7evk?si=qvhP2wMNK0G3OZuJ
+| Syntax            | Output                | Example                   |
+| ----------------- | --------------------- | ------------------------- |
+| `**Bold**`        | **Bold**              | `**This is bold**`        |
+| `*Italic*`        | *Italic*              | `*This is italic*`        |
+| `**_BoldItalic_**`| **_BoldItalic_**      | `**_BoldItalic_**`        |
+| `~~Strikethrough~~`| ~~Strikethrough~~     | `~~This is strikethrough~~`|
+| `[Link](url)`     | [Link](url)           | `[Google](https://www.google.com)`|
+| `![Image Alt](url)`| ![Image Alt](url)     | `![GitHub Logo](https://github.com/logos/github-logo.png)`|
+| `> Blockquote`    | > Blockquote          | `> This is a blockquote`  |
+| `# Heading 1`     | # Heading 1           | `# This is Heading 1`     |
+| `## Heading 2`    | ## Heading 2          | `## This is Heading 2`    |
+| `- Unordered List`| - Unordered List Item | `- Item 1`<br>- Item 2`   |
+| `1. Ordered List` | 1. Ordered List Item  | `1. Item 1`<br> `2. Item 2`|
+| `---`             | Horizontal Rule       | `---`                     |
+| `` `Inline Code` ``| `Inline Code`         | `` `This is inline code` ``|
+| ```  Code Block  ```| Code Block            | ```python\nprint("Hello, World!")\n```|
+
